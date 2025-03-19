@@ -22,7 +22,7 @@ Atualmente estou cursando Sistemas de Informação na UTFPR. Desde criança tenh
     </a>
 </p>
 
-## Áreas em aprendizado
+## 📚 Áreas em aprendizado:
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,mysql)](https://skillicons.dev)
 
 ## 📱 Contate-me:
