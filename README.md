@@ -22,5 +22,8 @@ Atualmente estou cursando Sistemas de Informação na UTFPR. Desde criança tenh
     </a>
 </p>
 
+## Áreas em aprendizado
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,mysql)](https://skillicons.dev)
+
 ## 📱 Contate-me:
 [![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephroehrs@gmail.com) [![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/joseroehrs_/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseroehrs/)
