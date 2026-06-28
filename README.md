@@ -1,17 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=55&text=OPEN%20TO%20WORK&fontSize=32&fontColor=ff1a4d&animation=blinking&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18,24,30&height=200&section=header&text=Jose%20Roehrs&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Information%20Systems%20Student&descSize=18&descAlignY=58"/>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=60&text=Jose%20Roehrs&fontSize=34&fontColor=ff1a4d&fontAlign=50&fontAlignY=50&desc=&animation=" alt="Jose Roehrs" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=ff1a4d&center=true&vCenter=true&width=500&lines=Desenvolvedor+Iniciante;Information+Systems+Student;Tech+Enthusiast;Always+Learning;Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff1a4d&center=true&vCenter=true&width=520&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+%26+Eterno+Aprendiz;Transformando+caf%C3%A9+em+c%C3%B3digo;Sempre+construindo+algo+novo" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18,24,30&height=3"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Ser%20programador%20%C3%A9%20aprender%20todos%20os%20dias,%20n%C3%A3o%20existe%20linha%20de%20chegada.%22&fontSize=15&fontColor=ff4d6d&fontAlign=50&fontAlignY=50&desc=&animation=" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&text=%22Ser%20programador%20%C3%A9%20aprender%20todos%20os%20dias,%20n%C3%A3o%20existe%20linha%20de%20chegada.%22&fontSize=15&fontColor=ff4d6d&fontAlign=50&fontAlignY=50" />
 </div>
 
 <img src="https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&logo=googlescholar&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
@@ -42,13 +40,26 @@
 </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18,24,30&height=3"/>
+
 <img src="https://img.shields.io/badge/Tech_Stack-0d1117?style=for-the-badge&logo=codeforces&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql&theme=dark" />
 </div>
 
----
+<img src="https://img.shields.io/badge/GitHub_Stats-0d1117?style=for-the-badge&logo=github&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseRoehrs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1a4d&icon_color=ff4d6d&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRoehrs&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1a4d&text_color=ffffff" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseRoehrs&hide_border=true&background=0d1117&stroke=ff1a4d&ring=ff1a4d&fire=ff4d6d&currStreakLabel=ff1a4d&sideLabels=ffffff&dates=ff4d6d&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18,24,30&height=3"/>
 
 <img src="https://img.shields.io/badge/Connect_With_Me-0d1117?style=for-the-badge&logo=handshake&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
@@ -66,7 +77,7 @@
 </a>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18,24,30&height=3"/>
 
 <img src="https://img.shields.io/badge/Activity_Graph-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=ff4d6d&labelColor=0d1117&color=ff1a4d"/>
 
@@ -75,5 +86,5 @@
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4d&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18,24,30&height=120&section=footer"/>
 </div>
